@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    scroll-behavior: smooth;
+}
+
+.navbar {
+    background-color: rgb(15, 139, 139);
+}
+
+h3{
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+}
+.quem-somos{
+    background-color: #69d0b3;
+}
+
+.margin{
+    padding: 50px 0px;
+}
+
+.parceiros{
+    background-color: #d9cf85;
+}
+
+.servicos{
+    background-color: #9bdab3;
+}
+
+.footer{
+    background-color: rgb(15, 139, 139);
+    padding: 25px 0px 25px 0px;
+    color: white;
+    font-weight: bold;
+}
